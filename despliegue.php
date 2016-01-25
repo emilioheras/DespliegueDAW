@@ -8,7 +8,7 @@
         if ($payload->ref == "refs/heads/master") {
 		
             //ejecutar el script del servidor.
-            //shell_exec('../PUESTA_EN_PRODUCCION.sh');
+            //shell_exec('/entrada/./PUESTA_EN_PRODUCCION.sh');
         }
     }
     
