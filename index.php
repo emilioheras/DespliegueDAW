@@ -6,8 +6,6 @@
 </head> 
 <body>
 
-<h1>Si sale esto en producción, la he cagado.</h1>
-
 <h3>Hola internauta, cómo estás.</h3>
 
 <img src="randomicon.php"/>
